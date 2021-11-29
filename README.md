@@ -42,7 +42,10 @@
 
 ## Screenshots
 
-![Example screenshot](https://github.com/kabaothao/Book-Search-Engine/blob/main/assets/imageone.PNG)
+![Example screenshot](https://github.com/kabaothao/Redux-Store/blob/main/Assets/22-state-homework-demo-01.gif)
+![Example screenshot](https://github.com/kabaothao/Redux-Store/blob/main/Assets/22-state-homework-demo-02.gif)
+![Example screenshot](https://github.com/kabaothao/Redux-Store/blob/main/Assets/22-state-homework-demo-03.gif)
+
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
