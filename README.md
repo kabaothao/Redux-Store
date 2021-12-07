@@ -1,7 +1,6 @@
 # Redux-Store
 
 > Outline a brief description of your project.
-- Live Demo [_here_](https://booksearchengine-app.herokuapp.com/). 
 
 
 > <!-- If you have the project hosted somewhere, include the link here. -->
